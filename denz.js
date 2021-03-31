@@ -373,7 +373,7 @@ async function starts() {
         	hasil = `        ────────────────
 ʜᴇɪ *${pushname2}* ᴘᴏʀғᴀᴠᴏʀ ᴅɪɢɪᴛᴇ *${prefix}menu*
         ────────────────`
-denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": "ketik #menu kak", 'jpegThumbnail': fs.readFileSync('./sticker/dnsnew.webp')}}}})
+denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": "𝑵𝑼𝑲𝑬 𝑩𝑶𝑻", 'jpegThumbnail': fs.readFileSync('./sticker/dnsnew.webp')}}}})
 }
 		if (bad.includes(messagesLink)) {
 		if (!isGroup) return
@@ -423,20 +423,20 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 				case 'menu':
 			if (isBanned) return reply(mess.only.benned)
 			if (!isUser) return reply(mess.only.userB)
-				dmenu = `╓───「 *_sᴄʀᴇᴀᴍᴏ 𝙱𝙾𝚃_* 」
+				dmenu = `╓───「 *_𝙽𝚄𝙺𝙴 𝙱𝙾𝚃_* 」
 ║wa.me/5519991718371
 ╙───々
-╓───「 🔸️*𝙄𝙉𝙁𝙊 𝘿𝙊 𝘽𝙊𝙏_*🔸️ 」
+╓───「 🔶 *𝙄𝙉𝙁𝙊 𝘿𝙊 𝘽𝙊𝙏_* 🔶 」
 ║❏ 𝙲𝚁𝙸𝙰𝙳𝙾𝚁|𝙳𝙾𝙽𝙾: 𝙽𝚄𝙺𝙴 𝙼𝙾𝙳𝚂
 ║❏ ᴘʀᴇғɪx: ${prefix}
 ║❏ ᴜsᴜᴀʀɪᴏ ʀᴇɢɪsᴛʀᴀᴅᴏ: ${user.length}
 ╙───々
-╓───「 🔸️*𝙐𝙎𝙐𝘼𝙍𝙄𝙊 𝙄𝙉𝙁𝙊_*🔸️ 」
+╓───「 🔶 *𝙐𝙎𝙐𝘼𝙍𝙄𝙊 𝙄𝙉𝙁𝙊_* 🔶 」
 ║❏ ɴᴏᴍᴇ: ${pushname2}
 ║❏ ɪʟɪᴍɪᴛᴀᴅᴏ: ${limitt}
 ║❏ ʀᴇɢɪsᴛʀᴀᴅᴏ: √
 ╙───々
-╓───「 🔸️*_𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝘼𝙊 _*🔸️ 」
+╓───「 🔶*_𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝘼𝙊 _*🔶 」
 ║❏ ${prefix}ʀᴇᴘᴏʀᴛ
 ║❏ ${prefix}ɪɴғᴏ
 ║❏ ${prefix}ᴅᴏɴᴀꜱɪ
@@ -450,7 +450,7 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ${prefix}ʙᴀɴʟɪꜱᴛ
 ║❏ ${prefix}ʙᴀʜᴀꜱᴀ
 ╙───々
-͏͏͏͏͏͏͏͏͏͏͏͏͏͏╓───「 🔸️*_𝙉𝙀𝙒 𝙈𝙀𝙉𝙐 _*🔸️ 」
+͏͏͏͏͏͏͏͏͏͏͏͏͏͏╓───「 🔶 *_𝙉𝙀𝙒 𝙈𝙀𝙉𝙐 _* 🔶 」
 ║❏ ${prefix}ɴɪɢʜᴛᴄᴏʀᴇ
 ║❏ ${prefix}ʙʟᴜʙ
 ║❏ ${prefix}ɢʜᴏꜱᴛ
@@ -554,7 +554,7 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ${prefix}ᴄʀɪɴɢᴇ
 ║❏ ${prefix}ʜᴇɴᴛᴀɪᴘɪᴄᴛ
 ╙───々
-͏͏͏͏͏͏͏͏͏͏͏͏͏͏╓───「 🔸️*_𝙈𝙀𝙉𝙐 𝙈𝙀𝘿𝙄𝘼_*🔸️ 」
+͏͏͏͏͏͏͏͏͏͏͏͏͏͏╓───「 🔶 *_𝙈𝙀𝙉𝙐 𝙈𝙀𝘿𝙄𝘼_* 🔶 」
 ║❏ ${prefix}ᴛɪᴋᴛᴏᴋꜱᴛᴀʟᴋ
 ║❏ ${prefix}ᴏᴄʀ
 ║❏ ${prefix}ɪᴍɢ2ᴜʀʟ
@@ -605,7 +605,7 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ${prefix}ᴛʀᴇɴᴅᴛᴡɪᴛ
 ║❏ ${prefix}ɢᴏᴏɢʟᴇ
 ╙───々
-╓───「 *_𝙆𝙀𝙍𝘼𝙉𝙂 𝙈𝙀𝙉𝙐_* 」
+╓───「 🔶 *_𝙆𝙀𝙍𝘼𝙉𝙂 𝙈𝙀𝙉𝙐_* 🔶 」
 ║❏ ${prefix}ᴀᴘᴀᴋᴀʜ
 ║❏ ${prefix}ᴋᴀᴘᴀɴᴋᴀʜ
 ║❏ ${prefix}ʙɪꜱᴀᴋᴀʜ
@@ -616,7 +616,7 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ${prefix}ᴅᴀʀᴇ
 ║❏ ${prefix}ғᴀᴋᴛᴀ
 ╙───々
-╓───「 🔸️*_𝙎𝙏𝙄𝘾𝙆𝙀𝙍 𝙈𝙀𝙉𝙐_*🔸️ 」
+╓───「 🔶 *_𝙎𝙏𝙄𝘾𝙆𝙀𝙍 𝙈𝙀𝙉𝙐_* 🔶 」
 ║❏ ${prefix}ᴛʀɪɢɢᴇʀ
 ║❏ ${prefix}ᴡᴀsᴛᴇᴅ
 ║❏ ${prefix}ɢᴀʏ
@@ -627,7 +627,7 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ${prefix}ᴄɪᴜᴍ
 ║❏ ${prefix}ɴɢᴇᴡᴇ
 ╙───々
-╓───「 🔸️*_𝘼𝙐𝘿𝙄𝙊 𝙈𝙀𝙉𝙐_*🔸️ 」
+╓───「 🔶 *_𝘼𝙐𝘿𝙄𝙊 𝙈𝙀𝙉𝙐_* 🔶 」
 ║❏ ${prefix}ɢᴇᴍᴜᴋ
 ║❏ ${prefix}ᴛᴜᴘᴀɪ
 ║❏ ${prefix}ʙᴀꜱꜱ
@@ -635,7 +635,7 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ${prefix}ғᴀꜱᴛ
 ║❏ ${prefix}ᴛᴛꜱ
 ╙───々
-╓───「 🔸️*_𝙄𝙈𝘼𝙂𝙀 𝙈𝙀𝙉𝙐_*🔸️ 」
+╓───「 🔶 *_𝙄𝙈𝘼𝙂𝙀 𝙈𝙀𝙉𝙐_* 🔶 」
 ║❏ ${prefix}ɢᴛᴀᴠ
 ║❏ ${prefix}ᴅʀᴀᴡɪɴɢ
 ║❏ ${prefix}ʀᴀɪɴᴅʀᴏᴘ
@@ -646,7 +646,7 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ${prefix}ʟɪɴᴇᴘʜᴏᴛᴏ
 ║❏ ${prefix}ᴄʀᴏꜱꜱɢᴜɴ
 ╙───々
-╓───「 🔸️*_𝘿𝙐𝙂𝙀𝙈 𝙈𝙀𝙉𝙐_*🔸️ 」
+╓───「 🔶 *_𝘿𝙐𝙂𝙀𝙈 𝙈𝙀𝙉𝙐_*🔶 」
 ║❏ ɪʀɪ
 ║❏ ᴛᴀᴘɪ
 ║❏ ʏᴏᴜʀ
@@ -658,7 +658,7 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ᴍᴀɢɪᴄ
 ║❏ ᴍᴇɴʏᴜᴋᴀɪᴋᴜ
 ╙───々
-╓───「 🔸️*_𝘼𝙉𝙄𝙈𝙀 𝙈𝙀𝙉𝙐_*🔸️ 」
+╓───「 🔶*_𝘼𝙉𝙄𝙈𝙀 𝙈𝙀𝙉𝙐_*🔶 」
 ║❏ ${prefix}ɴᴇᴋᴏ
 ║❏ ${prefix}ʟᴏʟɪ
 ║❏ ${prefix}ᴡɪʙᴜ
@@ -678,7 +678,7 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ${prefix}ᴍɪᴋᴜ
 ║❏ ${prefix}ᴀɴɪᴍᴇ
 ╙───々
-╓───「 🔸️*_𝙈𝙀𝙉𝙐 𝘼𝘿𝙈𝙄𝙉 _*🔸️ 」
+╓───「 🔔 *_𝙈𝙀𝙉𝙐 𝘼𝘿𝙈𝙄𝙉 _* 🔔 」
 ║❏ ${prefix}ɢᴀɴᴛᴇɴɢ
 ║❏ ${prefix}ᴀɴᴛɪғᴀᴋᴇ 1/0
 ║❏ ${prefix}ʙᴇʙᴀɴ
@@ -711,7 +711,7 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ${prefix}ɴꜱғᴡ
 ║❏ ${prefix}ꜱɪᴍɪʜ
 ╙───々
-╓───「 🔸️*_𝘾𝙍𝙄𝘼𝘿𝙊𝙍 𝙈𝙀𝙉𝙐_*🔸️ 」
+╓───「 🔶 *_𝘾𝙍𝙄𝘼𝘿𝙊𝙍 𝙈𝙀𝙉𝙐_* 🔶  」
 ║❏ ${prefix}ϙᴜᴏᴛᴇᴍᴀᴋᴇʀ
 ║❏ ${prefix}ᴛᴀʜᴛᴀ
 ║❏ ${prefix}ʙᴜʀɴᴘᴀᴘᴇʀ
@@ -737,7 +737,7 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ${prefix}ʜᴏʟᴏɢʀᴀᴍ
 ║❏ ${prefix}ᴍᴇᴛᴀʟʟᴏɢᴏ
 ╙───々
-╓───「 🔸️*_𝘿𝙄𝙑𝙀𝙍𝙎𝘼𝙊  𝙈𝙀𝙉𝙐_*🔸️ 」
+╓───「 🔶 *_𝘿𝙄𝙑𝙀𝙍𝙎𝘼𝙊  𝙈𝙀𝙉𝙐_* 🔶 」
 ║❏ ${prefix}ɴᴜʟɪꜱ
 ║❏ ${prefix}ɴᴜʟɪꜱ2
 ║❏ ${prefix}ꜱʟɪᴅᴇ
@@ -776,7 +776,7 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ${prefix}ғᴀᴍɪʟʏ100
 ║❏ ${prefix}ᴍᴇᴍᴇɪɴᴅᴏ
 ╙───々
-╓───「 🔸️*_𝙎𝘼𝙉𝙂𝙀 𝙈𝙀𝙉𝙐_*🔸️ 」
+╓───「 🔶 *_𝙎𝘼𝙉𝙂𝙀 𝙈𝙀𝙉𝙐_* 🔶 」
 ║❏ ${prefix}ᴄᴇʀꜱᴇx
 ║❏ ${prefix}ʀᴀɴᴅᴏᴍʙᴏᴋᴇᴘ
 ║❏ ${prefix}ᴘᴏʀɴʜᴜʙ
@@ -788,14 +788,14 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ${prefix}ʜᴇɴᴛᴀɪ
 ║❏ ${prefix}ɴᴇᴋᴏᴘᴏɪ
 ╙───々
-╓───「 *_𝙄𝙎𝙇𝘼𝙈 𝙈𝙀𝙉𝙐_* 」
+╓───「 🔶 *_𝙄𝙎𝙇𝘼𝙈 𝙈𝙀𝙉𝙐_* 🔶 」
 ║❏ ${prefix}ᴊᴀᴅᴡᴀʟꜱʜᴏʟᴀᴛ
 ║❏ ${prefix}ϙᴜʀᴀɴᴀᴜᴅɪᴏ
 ║❏ ${prefix}ϙᴜʀᴀɴ
 ║❏ ${prefix}ϙᴜʀᴀɴʟɪꜱᴛ
 ║❏ ${prefix}ϙᴜʀᴀɴꜱᴜʀᴀʜ 
 ╙───々
-╓───「 🔸️*_𝙊𝙏𝙃𝙀𝙍 𝙈𝙀𝙉𝙐_*🔸️ 」
+╓───「 🔶 *_𝙊𝙏𝙃𝙀𝙍 𝙈𝙀𝙉𝙐_* 🔶 」
 ║❏ ${prefix}ʙᴇᴄʀʏᴘᴛ 
 ║❏ ${prefix}ᴇɴᴄᴏᴅᴇ64
 ║❏ ${prefix}ᴅᴇᴄᴏᴅᴇ64
@@ -811,11 +811,11 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ${prefix}ᴛɪɴʏᴜʀʟ 
 ║❏ ${prefix}ʙɪᴛʟʏ 
 ╙───々
-╓───「 🔸️*_𝙎𝙋𝘼𝙈 𝙈𝙀𝙉𝙐_*🔸️ 」
+╓───「 🔶 *_𝙎𝙋𝘼𝙈 𝙈𝙀𝙉𝙐_* 🔶 」
 ║❏ ${prefix}ꜱᴘᴀᴍᴄᴀʟʟ 
 ║❏ ${prefix}ꜱᴘᴀᴍɢᴍᴀɪʟ 
 ╙───々
-╓───「 ➖*_𝘿𝙊𝙉𝙊  𝙈𝙀𝙉𝙐 _*➖ 」
+╓───「 ☘️ *_𝘿𝙊𝙉𝙊  𝙈𝙀𝙉𝙐 _* ☘️ 」
 ║❏ ${prefix}ᴀᴅᴅᴘʀᴇᴍ
 ║❏ ${prefix}ʀᴇᴍᴏᴠᴇᴘʀᴇᴍ
 ║❏ ${prefix}ᴀᴅᴅᴘᴀʟᴀᴠʀᴀ
@@ -841,14 +841,14 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 ║❏ ${prefix}ᴄʟᴏɴᴇ
 ║❏ ${prefix}ʟᴇᴀᴠᴇ
 ╙───々
-╓───「 ➖*_𝘾𝙍𝙀𝘿𝙄𝙏𝙊𝙎 _*➖ 」
+╓───「 ❄️ *_𝘾𝙍𝙀𝘿𝙄𝙏𝙊𝙎 _* ❄️ 」
 ║➽𝘾𝙍𝙄𝘼𝘿𝙊𝙍: 𝙉𝙐𝙆𝙀 𝙈𝙊𝘿𝙎 
 ║➽𝙏𝙚𝙡𝙡:5519991718371
 ║➽𝙋𝘼𝙍𝘾𝙀𝙍𝙄𝘼:𒅒𝚃𝙴𝚁𝙼𝚄𝚇 𝚂𝙲𝙷𝙾𝙾𝙻𒅒
 ║➽𝙂𝙧𝙪𝙥𝙤: https://chat.whatsapp.com/Hbn8T34Hkpi6UaA1yUatri
 ╙───々`
 brando = await getBuffer(`https://pencarikode.xyz/api/cita-cita?apikey=pais`, {method: 'get'})                
-denz.sendMessage(from, dmenu, text, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg", "caption": "verificado por lorde screamo:v cuidado com algumas mudanças #TIOCAFE", "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=", "fileLength": "28777", "height": 1080, "width": 1079, "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=", "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=", "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69", "mediaKeyTimestamp": "1610993486", "jpegThumbnail": fs.readFileSync('dnsnew.jpg')}}}})
+denz.sendMessage(from, dmenu, text, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg", "caption": "𝑵𝑼𝑲𝑬 𝑩𝑶𝑻", "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=", "fileLength": "28777", "height": 1080, "width": 1079, "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=", "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=", "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69", "mediaKeyTimestamp": "1610993486", "jpegThumbnail": fs.readFileSync('dnsnew.jpg')}}}})
 denz.sendMessage(from, brando, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true}) 	    
             break
             case 'help':
@@ -5625,7 +5625,7 @@ case 'husbu':
                   }
                   if (body.startsWith(`${prefix}${command}`)) {
 comd = `      ────────────────\nʜᴇɪ *${pushname2}* !!!\nɴᴀᴏ ᴇxɪsᴛᴇ /ᴄᴏᴍᴀɴᴅᴏ *${prefix}${command}*\nɴᴀᴏ ʟɪsᴛᴀᴅᴏ *${prefix}menu*\n      ────────────────`
-denz.sendMessage(from, comd, text, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": "tidak ada dalam #menu", 'jpegThumbnail': fs.readFileSync('./sticker/dnsnew.webp')}}}})
+denz.sendMessage(from, comd, text, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": "𝑵𝑼𝑲𝑬 𝑩𝑶𝑻", 'jpegThumbnail': fs.readFileSync('./sticker/dnsnew.webp')}}}})
 				  }
                   if (isGroup && isSimi && budy != undefined) {
 						console.log(budy)
