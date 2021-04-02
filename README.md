@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/1MjOzhPY9jfNsjXZc0hwKadsYUtlVDUoN/view" alt="HisokaBot" width="500" />
+<img src="https://photos.app.goo.gl/J3PH26Jq6Tt3VEuC8" alt="HisokaBot" width="500" />
 
 # _**NukeBot**_
 <p align="center">
