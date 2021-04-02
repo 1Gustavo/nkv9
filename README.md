@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/storage/emulated/0/DCIM/1617394062861" alt="HisokaBot" width="500" />
+<img src="https://github.com/1Gustavo/nkv9/blob/main/sticker/dnsnew.webp" alt="HisokaBot" width="500" />
 
 # _**NukeBot**_
 <p align="center">
